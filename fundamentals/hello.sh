@@ -18,3 +18,14 @@ echo "Welcome to bash scripting"
 echo -e "\033[1;31m Colorfull Echo"
 echo -e "\033[0;34m Blue Color Echo "
 echo -e "\033[1;35m Purple Bold Color Echo "
+echo "Abdul      Kalam"       # This is a comment, too!
+echo "Mohan Das"
+echo "JL * Nehru"
+echo Bhagat * Singh
+echo Mohan      Bhagwat
+echo "Suchitra" Kriplani
+echo Taylor "     " Reed
+echo "Lala "*" Lajpat"
+echo \n
+echo `Hargobind` Khorana
+echo 'Salman' Khan
